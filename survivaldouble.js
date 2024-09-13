@@ -9,7 +9,7 @@ if (!settings.survival) {
     }
 }
 settings.survival.cloner = 2;
-settings.unhide = 1;
+settings.unhide = 0;
 // settings.survivalClone=null; settings.survival = null; saveSettings();
 
 survivalTimeout = null;
